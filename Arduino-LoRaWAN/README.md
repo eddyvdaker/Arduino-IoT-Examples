@@ -14,3 +14,4 @@ This example shows how you can connect with a LoRa WAN network (tested with The 
 ## Links
 - [LoRaWAN](https://lora-alliance.org/about-lorawan/)
 - [The Things Network](https://www.thethingsnetwork.org/)
+- [The Things Network Gateways Map](https://www.thethingsnetwork.org/map), A map of known The Things Network gateways
