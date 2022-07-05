@@ -7,9 +7,9 @@ This example shows how it is possible to capture data logged to the serial monit
 |  PC  |
 +------+
     |
-    |  serial    +-----------+
-    +------------|  Arduino  |
-                 +-----------+
+    |  serial    +---------------+
+    +------------|  Arduino Uno  |
+                 +---------------+
 ```
 
 ## links
